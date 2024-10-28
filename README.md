@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benczben
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning nextjs
-- 💞️ Upcoming chapter: data visualization
+- 🌱 I’m currently learning astro js
+- 💞️ data visualization focus is next up
 
 <!---
 benczben/benczben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
