@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benczben
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning astro js
-- 💞️ data visualization focus is next up
+- Curerntly busy with:
+- 🌱 astro js projects
+- 💞️ data visualization
 
 Latest work: [25 years of Austrian commertial flight data visualization:](https://www.benczben.dev/blog/08-flights-austria)
 
